@@ -1,10 +1,10 @@
-# Project Title
+# Uni Project
 
 All Project I've Done
 
 ## Description
 
-This is all the project that I've done in my College on data field
+This is all the project that I've done in my university on data field
 
 ## Authors
 e- mail : shabinaaudy@gmail.com
